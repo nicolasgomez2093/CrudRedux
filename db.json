@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "name": "NicoGomez",
+      "price": "300",
+      "id": 7
+    },
+    {
+      "name": "iPad Pro",
+      "price": 12312,
+      "id": 8
+    },
+    {
+      "name": "MacBook Air",
+      "price": 2313,
+      "id": 12
+    },
+    {
+      "name": "Whisky",
+      "price": 900,
+      "id": 13
+    },
+    {
+      "name": "Whisky",
+      "price": 900,
+      "id": 14
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 15
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 16
+    },
+    {
+      "name": "Nico",
+      "price": 212,
+      "id": 17
+    }
+  ]
+}
